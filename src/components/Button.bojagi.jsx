@@ -13,3 +13,6 @@ export const Outline = () =>
 
 export const Dotted = () =>
     <Button variant="dotted">Ob-la-di Ob-la-da</Button>
+
+export const Ciao = () =>
+    <Button variant="dotted">CIAOOOO</Button>
