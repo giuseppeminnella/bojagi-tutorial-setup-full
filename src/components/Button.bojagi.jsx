@@ -16,3 +16,6 @@ export const Dotted = () =>
 
 export const Ciao = () =>
     <Button variant="dotted">CIAOOOO</Button>
+
+export const Onlyontheotherbranch = () =>
+    <Button variant="dotted">Onlyontheotherbranch</Button>
